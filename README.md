@@ -24,7 +24,7 @@
 
 ## 📫 Connect With Me
 
-- 🔗 Linkedin: [www.linkedin.com/in/khushi-mishra-06815931](www.linkedin.com/in/khushi-mishra-06815931b)  
+- 🔗 Linkedin: [www.linkedin.com/in/khushi-mishra-06815931b](www.linkedin.com/in/khushi-mishra-06815931b)  
 - 📧 Email: [your.email@example.com](mailto:your.email@example.com)  
 - 💻 [GitHub](https://github.com/your-username)
 
