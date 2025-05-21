@@ -9,7 +9,7 @@
 ## 🛠️ Tech Stack
 
 - 💻 Languages: `JavaScript`, `Python`, `C++`, `HTML`, `CSS`
-- ⚛️ Frameworks/Libraries: `React`,`Tailwind CSS`
+- ⚛️ Frameworks/Libraries: `React`
 
 ---
 
