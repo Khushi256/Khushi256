@@ -8,7 +8,7 @@ I’m currently working on frontend projects while learning Data Structures and 
 ---
 
 ##  Tech Stack
-**Languages:**  C++ , JavaScript , Python , C  
+**Languages:**  C++ , JavaScript , Python , C , Typescript 
 **Frontend:**  React , HTML5 , CSS3 , Tailwind CSS  
 **Tools:**  Git , VS Code  
 
