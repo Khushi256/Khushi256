@@ -22,6 +22,7 @@ I’m particularly interested in combining ML with real-world applications and c
 - Enhancing my AI Resume Maker with LaTeX + PDF pipeline  
 - Contributing to open source (p5.js ecosystem)  
 - Strengthening DSA in C++
+- Exploring Machine Learning
 
 
 
