@@ -13,7 +13,7 @@ I’m particularly interested in combining ML with real-world applications and c
 ##  Tech Stack
 **Core:** React, JavaScript, C++  
 **Frontend Development:** HTML, CSS, Tailwind CSS, Framer, Shadcn                                                                               
-**Programming & Problem Solving:** C++, Python (DSA, fundamentals)  
+**Programming & Problem Solving:** Java, C++, Python (DSA, fundamentals)  
 **Tools:** Git, GitHub, VS Code, Figma
 
 
