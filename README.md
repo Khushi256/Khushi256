@@ -1,29 +1,68 @@
-# 👋 Hi there, I'm Khushi!
+# Hi, I'm Khushi Mishra
 
+Computer Science undergraduate specializing in AI & Machine Learning, passionate about building intelligent systems, scalable software, and impactful open-source solutions.
 
+Currently exploring deep learning, computer vision, and modern software engineering while developing projects that bridge machine learning research with real-world applications.
 
-##  About Me
-I build frontend applications with React, focusing on clean UI and real-world functionality. 
-Recently, I’ve been working on an AI-powered Resume Builder with PDF generation and chatbot interaction.
+---
 
-Alongside this, I’m exploring Machine Learning - currently learning core fundamentals and working with Python libraries. 
-I’m particularly interested in combining ML with real-world applications and contributing to open source projects.
+## About Me
 
+- Computer Science (AI/ML) student at GSSS Institute of Technology for Women
+- Strong foundation in Data Structures & Algorithms using C++
+- Building end-to-end Machine Learning and Full-Stack applications
+- Open Source Contributor to the Processing Foundation's p5.js ecosystem
+- Interested in Software Engineering, Machine Learning, and AI Products
 
-##  Tech Stack
-**Core:** React, JavaScript, C++  
-**Frontend Development:** HTML, CSS, Tailwind CSS, Framer, Shadcn                                                                               
-**Programming & Problem Solving:** Java, C++ (DSA) , Python    
-**Tools:** Git, GitHub, VS Code, Figma
+---
 
+## Tech Stack
 
+**Languages:** C++, Python, JavaScript, TypeScript, Java
 
-##  Currently Working On
-- Enhancing my AI Resume Maker with LaTeX + PDF pipeline  
-- Contributing to open source (p5.js ecosystem)  
-- Strengthening DSA in C++
-- Exploring Machine Learning
+**Frontend:** React, Tailwind CSS, Redux, Radix UI, Framer Motion, REST APIs, WebSockets
 
+**Machine Learning:** PyTorch, scikit-learn, NumPy, Pandas, Deep Learning, Transfer Learning
+
+**Cloud:** Google Cloud Platform, Vertex AI, AWS ML Foundations, Vercel
+
+**Tools:** Git, Postman, Figma, Vite, Zod
+
+---
+
+## Featured Project
+
+### Plant Disease Detection
+
+A deep learning pipeline for identifying plant leaf diseases from images using PyTorch and Computer Vision.
+
+**Highlights**
+- Trained and compared a custom CNN and ResNet18 transfer learning model
+- Achieved **100% validation accuracy** on a 10-class PlantVillage subset
+- Built a complete training, evaluation, and inference pipeline
+- Developed a Streamlit web application for real-time predictions
+- Integrated confidence scoring and top-k prediction visualization
+
+**Tech Stack**
+`PyTorch` • `ResNet18` • `Streamlit` • `scikit-learn` • `NumPy` • `Matplotlib`
+
+---
+
+## Open Source
+
+### Processing Foundation – p5.js Website
+
+Contributed responsive UI improvements and bug fixes to the p5.js website, helping improve accessibility and user experience across devices.
+
+---
+
+## Currently Learning
+
+- Advanced Deep Learning
+- MLOps
+- System Design
+
+---
 
 
 ## Connect with Me
