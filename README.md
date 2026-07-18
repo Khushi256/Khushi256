@@ -1,8 +1,6 @@
 # Hi, I'm Khushi Mishra
 
-Computer Science undergraduate specializing in AI & Machine Learning, passionate about building intelligent systems, scalable software, and impactful open-source solutions.
-
-Currently exploring deep learning, computer vision, and modern software engineering while developing projects that bridge machine learning research with real-world applications.
+Computer Science (AI & ML) undergraduate building AI & Machine Learning applications, exploring deep learning and computer vision, and contributing to open source.
 
 ---
 
