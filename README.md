@@ -6,16 +6,6 @@ Currently exploring deep learning, computer vision, and modern software engineer
 
 ---
 
-## About Me
-
-- Computer Science (AI/ML) student at GSSS Institute of Technology for Women
-- Strong foundation in Data Structures & Algorithms using C++
-- Building end-to-end Machine Learning and Full-Stack applications
-- Open Source Contributor to the Processing Foundation's p5.js ecosystem
-- Interested in Software Engineering, Machine Learning, and AI Products
-
----
-
 ## Tech Stack
 
 **Languages:** C++, Python, JavaScript, TypeScript, Java
